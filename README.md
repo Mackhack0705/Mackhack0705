@@ -1,3 +1,4 @@
+<a href="https://app.daily.dev/rajeshmali"><img src="https://api.daily.dev/devcards/v2/ln6CzmogufP1e3fIAyAxE.png?r=ycb&type=default" width="356" alt="Rajesh Mali's Dev Card"/></a>
 <h1 align="center">Hi 👋, I'm Rajesh Mali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
