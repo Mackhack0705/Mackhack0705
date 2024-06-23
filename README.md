@@ -2,15 +2,10 @@
 <h1 align="center">Hi 👋, I'm Rajesh Mali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Travel](https://reliable-swan-1d8f0d.netlify.app/)
-
-- 🌱 I’m currently learning **Competitive Programming**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, EXPRESS, NODE, MONGODB**
 
 - 📫 How to reach me **malirajesh0705@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1svDq8UEWLSYf2AvNnfTtoDJPBIF7WXm_/view?usp=sharing](https://drive.google.com/file/d/1svDq8UEWLSYf2AvNnfTtoDJPBIF7WXm_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
